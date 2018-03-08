@@ -1,6 +1,6 @@
 <?php
 
-namespace Accessor;
+namespace Utilities;
 
 trait Accessor
 {
@@ -23,7 +23,7 @@ trait Accessor
 	public function __isset($name)
 	{
 		$issetter = "isset{$name}";
-		
+
 		if (method_exists($this, $issetter))
 			return $this->$issetter();
 	}

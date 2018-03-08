@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
 	"name": "utilities/accessor",
+=======
+	"name": "utils/accessor",
+>>>>>>> 56ca82ede9e4b46f183e579db0efbb2374da9acc
 	"type": "library",
 	"description": "Adds getter and setter support to PHP",
 	"keywords": [

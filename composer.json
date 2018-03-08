@@ -1,5 +1,5 @@
 {
-	"name": "accessor/accessor",
+	"name": "utils/accessor",
 	"type": "library",
 	"description": "Adds getter and setter support to PHP",
 	"keywords": [

@@ -1,0 +1,19 @@
+{
+	"name": "accessor/accessor",
+	"type": "library",
+	"description": "Adds getter and setter support to PHP",
+	"keywords": [
+		"get", "set", "isset", "unset", "accessor"
+	],
+	"homepage": "https://github.com/JamesCoyle/php-accessor",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "James Coyle",
+			"role": "Developer"
+		}
+	],
+	"require": {
+		"php": ">=5.3.0"
+	}
+}
